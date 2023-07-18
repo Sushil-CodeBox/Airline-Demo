@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.2b13baa7dd4f54c9.eot"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.8a7cb27d142e3e19.ttf"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.cf011583fb81df9f.woff"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.da909aa098b0ee2d.svg"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.e9955780856cf8aa.woff2"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\main.01ef658cce774de9.js",
+      "PackagePath": "staticwebassets\\main.01ef658cce774de9.js"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\main.241a9179858dcdac.js",
+      "PackagePath": "staticwebassets\\main.241a9179858dcdac.js"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\main.3febbaae0a122f7b.js",
+      "PackagePath": "staticwebassets\\main.3febbaae0a122f7b.js"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\main.549488a5c653cf87.js",
+      "PackagePath": "staticwebassets\\main.549488a5c653cf87.js"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\main.7385121ea7fecc48.js",
+      "PackagePath": "staticwebassets\\main.7385121ea7fecc48.js"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\main.a2cfd5f1a1390678.js",
+      "PackagePath": "staticwebassets\\main.a2cfd5f1a1390678.js"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\main.acf2f556cdc24f78.js",
+      "PackagePath": "staticwebassets\\main.acf2f556cdc24f78.js"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\main.b161cbc5791ae8cc.js",
+      "PackagePath": "staticwebassets\\main.b161cbc5791ae8cc.js"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\main.beed73fd2e7b9a83.js",
+      "PackagePath": "staticwebassets\\main.beed73fd2e7b9a83.js"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\main.ccb0bac2571cc007.js",
+      "PackagePath": "staticwebassets\\main.ccb0bac2571cc007.js"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\main.dcb4c97271436b3a.js",
+      "PackagePath": "staticwebassets\\main.dcb4c97271436b3a.js"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\polyfills.9719da6bd81daf31.js",
+      "PackagePath": "staticwebassets\\polyfills.9719da6bd81daf31.js"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\runtime.b7c7685248004787.js",
+      "PackagePath": "staticwebassets\\runtime.b7c7685248004787.js"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\scripts.eebee5cf4d4173bc.js",
+      "PackagePath": "staticwebassets\\scripts.eebee5cf4d4173bc.js"
+    },
+    {
+      "Id": "K:\\Practice\\Airline Project\\AngularManagementWithAPI\\wwwroot\\styles.6b9ed0769162183d.css",
+      "PackagePath": "staticwebassets\\styles.6b9ed0769162183d.css"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.AirlineManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.AirlineManagement.props",
+      "PackagePath": "build\\AirlineManagement.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AirlineManagement.props",
+      "PackagePath": "buildMultiTargeting\\AirlineManagement.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.AirlineManagement.props",
+      "PackagePath": "buildTransitive\\AirlineManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

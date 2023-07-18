@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "AirlineManagement": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:57226;http://localhost:57227"
+    }
+  }
+}
